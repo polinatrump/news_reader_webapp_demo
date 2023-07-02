@@ -42,7 +42,7 @@ jupyter_server_terminals==0.4.4
 jupyterlab-server==2.23.0
 jupyterlab-widgets==3.0.7
 jupyterlab_pygments==0.1.2
-libiconv==1.16
+# libiconv==1.16
 libsodium==1.0.18
 libxml2==2.10.3
 libxslt==1.1.37
