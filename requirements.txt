@@ -45,7 +45,7 @@ jupyterlab_pygments==0.1.2
 # libiconv==1.16
 libsodium==1.0.2
 #libxml2==2.10.3
-libxslt==1.1.37
+#libxslt==1.1.37
 lxml==4.9.2
 markupsafe==2.1.1
 matplotlib-inline==0.1.6
